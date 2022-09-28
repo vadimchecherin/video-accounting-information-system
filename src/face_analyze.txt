@@ -1,0 +1,17 @@
+[+] Предпологаемый возраст: 25
+[+] Гендер: Man
+[+] Раса:
+asian - 8.21%
+indian - 9.28%
+black - 1.33%
+white - 34.74%
+middle eastern - 23.96%
+latino hispanic - 22.47%
+[+] Эмоция:
+angry - 0.05%
+disgust - 0.0%
+fear - 31.61%
+happy - 30.5%
+sad - 11.27%
+surprise - 0.0%
+neutral - 26.57%
